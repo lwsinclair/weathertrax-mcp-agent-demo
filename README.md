@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jaredco-ai-weathertrax-mcp-agent-demo-badge.png)](https://mseep.ai/app/jaredco-ai-weathertrax-mcp-agent-demo)
+
 # 🌦 WeatherTrax MCP Agent Demo — n8n Workflow
 
 This is a fully working example of how to call an external [MCP](https://modelcontext.org/) weather tool using **OpenAI's function-calling agent node inside n8n**.
